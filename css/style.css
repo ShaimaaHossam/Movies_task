@@ -1,0 +1,36 @@
+body{
+    padding:12px 50px;
+}
+#stats_container{
+    border:1px solid black;
+    padding: 25px;
+}
+.stats__header{
+    font-size: 22px;
+    font-weight: 500;
+}
+.item{
+    text-align: center; 
+}
+button{
+    border:1px solid black;
+    border-radius: 2px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.modal{
+    max-width: 500px;
+    max-height: 350px;
+    padding: 0;
+    border-radius: 0;
+}
+.modal-title{
+    font-size: 14px;
+    font-weight: 500;
+    margin: 10px 0;
+}
+#modal-body{
+    font-size: 13px;
+}
